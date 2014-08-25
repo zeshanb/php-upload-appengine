@@ -1,0 +1,14 @@
+body {
+	font-size: 1em !important;
+	color:#FFFFFF !important;
+}
+.contentArea {
+ display:block;
+ width: 90%;
+ height: auto;
+ margin-left: auto;
+ marign-right: auto;
+}
+.SomeSpaceDude {
+   margin: 50px;
+}

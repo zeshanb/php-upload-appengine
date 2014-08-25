@@ -1,0 +1,15 @@
+application: your-project-id
+version: alpha004
+runtime: php
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+- url: /inc
+  static_dir: inc
+  
+- url: /
+  script: upload.php
