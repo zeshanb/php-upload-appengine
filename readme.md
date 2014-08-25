@@ -1,4 +1,4 @@
-An example of a way to upload files larger then 32MB(limitation of http post on AppEngine) to AppEngine using a PHP Application, PHP.ini file is used to declare max upload size and session time.
+An example of a way to upload files larger then 32MB(limitation of http post on AppEngine) to AppEngine using a PHP Application. PHP.ini file is used to declare max upload size and session time.
 
 1. Download this repo
 2. Add as an existing Application to AppEngine SDK Launcher
