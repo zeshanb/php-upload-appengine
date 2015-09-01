@@ -1,8 +1,9 @@
 application: your-project-id
-version: alpha004
-runtime: php
+version: alpha6
+runtime: php55
 api_version: 1
 threadsafe: yes
+
 
 handlers:
 - url: /favicon\.ico
